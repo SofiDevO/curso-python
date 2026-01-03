@@ -1,11 +1,9 @@
-from typing import Callable, Any
-
 # Data types in Python
 stringDataType = "Hola patata"
 integerDataType = 2
 floatDataType = 2.1
-listDataType:list[str | bool | int] = ['2', True, 4]
-setDataType:set[str | int |str] = {'2', 3,'patata'  }
+listDataType = ['2', True, 4]
+setDataType = {'2', 3,'patata'  }
 tuplaDataType = (3, 4,1,4)
 dictionaryDataType = {
     "patata": "frita",
@@ -15,7 +13,7 @@ dictionaryDataType = {
 boleanDataType  = []
 noneDataType = None #equaxls null in other languajes
 
-functionDataType: Callable[[Any], None] = lambda i: print(i)
+functionDataType = lambda i: print(i)
 
 # print(listDataType[2])
 # print(setDataType)
