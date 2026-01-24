@@ -116,7 +116,6 @@ o comentar los ejercicios que no estés trabajando.
 
 # greeting('Sofia')
 
-
 # =============================================================================
 # EJERCICIO 8: Funciones con múltiples parámetros
 # =============================================================================
@@ -137,9 +136,6 @@ o comentar los ejercicios que no estés trabajando.
 
 # print(result)
 
-
-
-
 # =============================================================================
 # EJERCICIO 9: Trabajando con strings
 # =============================================================================
@@ -159,7 +155,6 @@ o comentar los ejercicios que no estés trabajando.
 # print(word_lower)
 # print(counted_words)
 
-
 # =============================================================================
 # EJERCICIO 10: List comprehension (más avanzado)
 # =============================================================================
@@ -168,7 +163,6 @@ o comentar los ejercicios que no estés trabajando.
 # usando list comprehension: [expresion for item in iterable]
 
 # Tu código aquí:
-
 
 # cuadrados = [i** 2 for i in range(1,11)]
 # print(cuadrados)
@@ -201,7 +195,6 @@ def total_products(prod):
 
 result = total_products(products)
 print(result)
-
 
 discounted_total= 0
 if result > 100:

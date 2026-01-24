@@ -2,7 +2,7 @@
 
 Aquí tienes una colección de mini-proyectos pensados para practicar conceptos clave de Python. Cada proyecto incluye una breve descripción, objetivos, nivel y pistas.
 
-- **Consejo**: intenta resolverlos primero sin mirar las soluciones; luego compara con `03-mini-proyectos-SOLUCIONES.py` si necesitas ayuda.
+- **Consejo**: intenta resolverlos primero sin mirar las soluciones;
 
 ---
 
@@ -13,8 +13,7 @@ Objetivos:
 Descripción:
 Crea un pequeño programa que tenga una lista de productos (diccionarios con `name` y `price`). Calcula el subtotal, aplica IVA (por ejemplo 21%) y muestra el total.
 Pistas:
-- Usa `sum(p['price'] for p in products)`
-
+- Usa `sum(p['price'] for p in products)
 ---
 
 ## 2) Adivina el número (Nivel: Principiante)
